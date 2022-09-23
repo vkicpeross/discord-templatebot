@@ -1,2 +1,2 @@
 # discord-templatebot
-Publiczny handler bota w discord.js v14
+Public bot handler in discord.js v14
